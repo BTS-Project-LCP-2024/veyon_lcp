@@ -23,7 +23,8 @@ Une configuration ⛏️ efficace et rapide de Veyon Master.
 
 Voici un aperçu de ce que nous avons accompli jusqu'à présent et de ce qui reste à faire :
 
-(En cours)
+ - Optimisation générale
+ - GUI
 
 
 ## 📖 À propos du projet
